@@ -53,7 +53,7 @@ class _MainPageState extends State<MainPage> {
       } else if (handCp == 1) {
         handCpString = "scissors";
       } else if (handCp == 2) {
-        handCpString = "paper";
+        handCpString = "paper aaa";
       } else {
         return;
       }
